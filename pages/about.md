@@ -1,18 +1,16 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: About Jesse and this website.
+keywords: Jesse, website
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我是马壮，码而生，码而立。
+在这里，记录一切探索过程中的灵感与新知。
 
-仰慕「优雅编码的艺术」。
-
-坚信熟能生巧，努力改变人生。
+这里是Jesse aka 白泽，本科在读英专生，喜欢数码与科技，同时也吸点Furry。
 
 ## 联系
 
@@ -29,12 +27,12 @@ permalink: /about/
 </ul>
 
 
-## Skill Keywords
+## 兴趣分布
 
-{% for skill in site.data.skills %}
-### {{ skill.name }}
+{% for interest in site.data.interests %}
+### {{ interest.name }}
 <div class="btn-inline">
-{% for keyword in skill.keywords %}
+{% for keyword in interest.keywords %}
 <button class="btn btn-outline" type="button">{{ keyword }}</button>
 {% endfor %}
 </div>
