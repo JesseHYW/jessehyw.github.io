@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://www.jesseh.gq
+url: https://jessehyw.github.io
 date_format: "ordinal"
 title: Jesse's Blog
 subtitle: "Per aspera ad astra."
