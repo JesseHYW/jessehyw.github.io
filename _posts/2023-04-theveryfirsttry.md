@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Very First Try
-categories: [Blog]
+categories: [杂谈]
 description: Try blogging on this site for the first time.
 keywords: blog, beginning
 ---
