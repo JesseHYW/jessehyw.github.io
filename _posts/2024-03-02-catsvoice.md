@@ -58,4 +58,4 @@ keywords: 家有大猫, GPT-SoVITS, AI
 
 扫码加入大猫频道，获取模型整合包，与up交流使用体验吧！家有大猫QQ频道，不止大猫！
 
-![频道二维码](/images/posts/catsvoice/7.png)
+<img src="/images/posts/catsvoice/7.jpg" width="35%" alt="频道二维码">
